@@ -1,1 +1,2 @@
-# vue-demo
+# cli-vue2-template
+
